@@ -34,4 +34,4 @@ view.forceRender()
 ```
 
 ## Credit
-[Diffy](https://github.com/mafintosh/diffy)
+[Diffy](https://github.com/mafintosh/diffy) by [Mafintosh](https://github.com/mafintosh)
