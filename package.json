@@ -1,0 +1,23 @@
+{
+  "name": "diffy-view",
+  "version": "1.0.0",
+  "description": "React like component for diffy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbndg/diffy-view.git"
+  },
+  "author": "rbndg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbndg/diffy-view/issues"
+  },
+  "homepage": "https://github.com/rbndg/diffy-view#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "diffy": "^2.1.0"
+  }
+}
