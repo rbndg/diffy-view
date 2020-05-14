@@ -1,6 +1,6 @@
 {
   "name": "diffy-view",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React like component for diffy",
   "main": "index.js",
   "scripts": {
