@@ -5,9 +5,9 @@ const diffy = require('diffy')
 const trim = require('diffy/trim')
 
 class Render extends EventEmitter {
-  constructor ({ state }) {
+  constructor ({ state, config }) {
     super()
-    this.df = diffy({ fullscreen: true })
+    this.df = diffy(config.diffy || null)
     this.input = this.createInput()
     this.state = state || {}
 
